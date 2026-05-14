@@ -9,3 +9,4 @@
 @NormanV2ray
 @canfingV2rayNG
 @LoopLine_Ir
+@v2ray_dalghak
